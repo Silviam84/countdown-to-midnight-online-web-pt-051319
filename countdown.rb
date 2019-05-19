@@ -1,4 +1,7 @@
-#write your code here
+def countdown_with_sleep
+  Puts "HAPPY NEW YEAR!"
+  
 
-def countdown
+def countdown_with_sleep
+  
 end
